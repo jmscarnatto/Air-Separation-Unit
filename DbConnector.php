@@ -42,4 +42,5 @@ class DbConnector extends SystemComponent {
 		mysql_close($this->link);
 	}
 }
+
 ?>
