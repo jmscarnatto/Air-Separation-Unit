@@ -52,4 +52,5 @@ class SimWeek extends Simulation{
 		return $this->GapInfo;
 	}
 }
+
 ?>
