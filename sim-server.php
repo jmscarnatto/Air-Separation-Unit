@@ -26,7 +26,7 @@ $products = array_diff_key($_GET,array_flip($keys)); //linea magistral!
 
 if($horas<150){
 $products = array_map('represent1000',$products);
-}else{
+}else{ 
 $products = array_map('represent',$products);
 }
 
