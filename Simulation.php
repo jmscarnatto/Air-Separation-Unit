@@ -1148,4 +1148,5 @@ class Simulation{
 	return number_format($number,$dig,",","");
 	}
 }
+
 ?>
